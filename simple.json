@@ -1,0 +1,2424 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "2251381441357345161",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:14:00-07:00",
+      "updated": "2021-08-02T07:14:25-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/wisdom.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2251381441357345161",
+      "title": "Wisdom",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2251381441357345161/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzNjY1MDg4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4546543954051626248",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:12:00-07:00",
+      "updated": "2021-08-02T07:12:40-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/life-skills.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4546543954051626248",
+      "title": "Life skills",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4546543954051626248/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzNTYwMjg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3991918098162489547",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:11:00-07:00",
+      "updated": "2021-08-02T07:11:26-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/big-five-personality-traits.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3991918098162489547",
+      "title": "Big Five personality traits",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3991918098162489547/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzNDg2Mjc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5902734259175578826",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:06:00-07:00",
+      "updated": "2021-08-02T07:06:45-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/emotional-intelligence.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5902734259175578826",
+      "title": "Emotional intelligence",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5902734259175578826/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzMjA1MTk2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7341457734823340450",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:05:00-07:00",
+      "updated": "2021-08-02T07:05:15-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/emotional-self-regulation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7341457734823340450",
+      "title": "Emotional self-regulation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7341457734823340450/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzMTE1MDI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6317236744653844666",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:03:00-07:00",
+      "updated": "2021-08-02T07:03:57-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/positive-psychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6317236744653844666",
+      "title": "Positive psychology",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6317236744653844666/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEzMDM3NjAwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8851928284115000201",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:02:00-07:00",
+      "updated": "2021-08-02T07:02:01-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/time-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8851928284115000201",
+      "title": "Time management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8851928284115000201/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyOTIxNjA0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6920021718886451031",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T07:00:00-07:00",
+      "updated": "2021-08-02T07:00:30-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/the-7-habits-of-highly-effective-people.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6920021718886451031",
+      "title": "The 7 Habits of Highly Effective People",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6920021718886451031/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyODMwNDAwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4220579531486485490",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:59:00-07:00",
+      "updated": "2021-08-02T06:59:12-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/the-law-of-success.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4220579531486485490",
+      "title": "The Law of Success",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4220579531486485490/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyNzUyMTIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6022199569374113174",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:58:00-07:00",
+      "updated": "2021-08-02T06:58:00-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/golden-rule.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6022199569374113174",
+      "title": "Golden Rule",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6022199569374113174/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyNjgwMjM3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7695186772386719346",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:56:00-07:00",
+      "updated": "2021-08-02T06:56:17-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7695186772386719346",
+      "title": "Strategy",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7695186772386719346/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyNTc3MjY1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4388128992260306388",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:54:00-07:00",
+      "updated": "2021-08-02T06:54:45-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategic-thinking.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4388128992260306388",
+      "title": "Strategic thinking",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4388128992260306388/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyNDg1Mzc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2846282585411598490",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:52:00-07:00",
+      "updated": "2021-08-02T06:52:46-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategic-planning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2846282585411598490",
+      "title": "Strategic planning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2846282585411598490/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMzY2MzI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2967473222210976293",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:51:00-07:00",
+      "updated": "2021-08-02T06:51:37-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategy-dynamics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2967473222210976293",
+      "title": "Strategy dynamics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2967473222210976293/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMjk3OTM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2003714001935789050",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:50:00-07:00",
+      "updated": "2021-08-02T06:50:20-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategy-implementation.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2003714001935789050",
+      "title": "Strategy implementation",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2003714001935789050/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMjIwNDQzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6475582472171076418",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:49:00-07:00",
+      "updated": "2021-08-02T06:49:12-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/decision-tree.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6475582472171076418",
+      "title": "Decision tree",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6475582472171076418/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMTUyMTYwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "9182867381886210079",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:48:00-07:00",
+      "updated": "2021-08-02T06:48:06-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/influence-diagram.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/9182867381886210079",
+      "title": "Influence diagram",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/9182867381886210079/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMDg2MjAzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6224451283778319499",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:46:00-07:00",
+      "updated": "2021-08-02T06:46:44-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/business-process.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6224451283778319499",
+      "title": "Business process",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6224451283778319499/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEyMDA0ODMxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5366253806976551286",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:45:00-07:00",
+      "updated": "2021-08-02T06:45:25-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/business-model.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5366253806976551286",
+      "title": "Business model",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5366253806976551286/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExOTI1MTYyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2678418833699254152",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:43:00-07:00",
+      "updated": "2021-08-02T06:43:45-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/business-plan.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2678418833699254152",
+      "title": "Business plan",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2678418833699254152/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExODI1MTIwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6455824833196729204",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:41:00-07:00",
+      "updated": "2021-08-02T06:41:19-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/environmental-scanning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6455824833196729204",
+      "title": "Environmental scanning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6455824833196729204/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExNjc5NDAyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5663086830665987522",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:39:00-07:00",
+      "updated": "2021-08-02T06:39:32-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/pest-analysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5663086830665987522",
+      "title": "PEST analysis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5663086830665987522/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExNTcyODY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "568984851074307039",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:38:00-07:00",
+      "updated": "2021-08-02T06:38:21-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/market-structure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/568984851074307039",
+      "title": "Market structure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/568984851074307039/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExNTAxNjc0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6599067239118068369",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:36:00-07:00",
+      "updated": "2021-08-02T06:36:29-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/growthshare-matrix.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6599067239118068369",
+      "title": "Growth–share matrix",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6599067239118068369/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExMzg5NDcyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3076000221438529742",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:34:00-07:00",
+      "updated": "2021-08-02T06:34:36-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/porter-five-forces-analysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3076000221438529742",
+      "title": "Porter five forces analysis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3076000221438529742/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExMjc2MDg3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5936477949415729961",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:32:00-07:00",
+      "updated": "2021-08-02T06:32:45-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/swot-analysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5936477949415729961",
+      "title": "SWOT analysis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5936477949415729961/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExMTY1OTYzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "539790953432109047",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:31:00-07:00",
+      "updated": "2021-08-02T06:31:24-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/vrio.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/539790953432109047",
+      "title": "VRIO",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/539790953432109047/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExMDg0OTkxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3809231076338931226",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:30:00-07:00",
+      "updated": "2021-08-02T06:30:10-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/value-chain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3809231076338931226",
+      "title": "Value chain",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3809231076338931226/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTExMDEwNDkzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7126324693821535958",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:28:00-07:00",
+      "updated": "2021-08-02T06:28:56-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/technology-roadmap.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7126324693821535958",
+      "title": "Technology roadmap",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7126324693821535958/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEwOTM2NDA4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6907681816943410813",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:27:00-07:00",
+      "updated": "2021-08-02T06:27:26-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/project-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6907681816943410813",
+      "title": "Project management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6907681816943410813/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEwODQ2NzA3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3289488162066439356",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T06:18:00-07:00",
+      "updated": "2021-08-02T06:18:11-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/gantt-chart.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3289488162066439356",
+      "title": "Gantt chart",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3289488162066439356/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3OTEwMjkxMjE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2256460460466533693",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T03:23:00-07:00",
+      "updated": "2021-08-02T03:23:46-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/work-breakdown-structure.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2256460460466533693",
+      "title": "Work breakdown structure",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2256460460466533693/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk5ODI2NzU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4744179379007473516",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:20:00-07:00",
+      "updated": "2021-08-02T02:20:20-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/critical-path-method.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4744179379007473516",
+      "title": "Critical path method",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4744179379007473516/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk2MDIwMDc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8943640579025506511",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:18:00-07:00",
+      "updated": "2021-08-02T02:18:57-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/program-evaluation-and-review-technique.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8943640579025506511",
+      "title": "Program evaluation and review technique",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8943640579025506511/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1OTM3NTU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "367654267118848236",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:16:00-07:00",
+      "updated": "2021-08-02T02:16:28-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategic-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/367654267118848236",
+      "title": "Strategic management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/367654267118848236/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1Nzg4ODIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1371655754016467873",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:10:00-07:00",
+      "updated": "2021-08-02T02:10:11-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategic-alliance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1371655754016467873",
+      "title": "Strategic alliance",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1371655754016467873/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1NDExMjI1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "659722391719617473",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:08:00-07:00",
+      "updated": "2021-08-02T02:08:43-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/resource-based-view.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/659722391719617473",
+      "title": "Resource-based view",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/659722391719617473/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1MzIzNDEyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8728936537592314531",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:07:00-07:00",
+      "updated": "2021-08-02T02:07:28-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/competitive-advantage.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8728936537592314531",
+      "title": "Competitive advantage",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8728936537592314531/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1MjQ4OTg5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6126382602949688034",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:06:00-07:00",
+      "updated": "2021-08-02T02:06:20-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/supply-chain.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6126382602949688034",
+      "title": "Supply chain",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6126382602949688034/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1MTgwMDY4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1179373830449694584",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:04:00-07:00",
+      "updated": "2021-08-02T02:04:39-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/vertical-integration.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1179373830449694584",
+      "title": "Vertical integration",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1179373830449694584/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk1MDc5MzcwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2058547604189867597",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:03:00-07:00",
+      "updated": "2021-08-02T02:03:06-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/vertical-disintegration.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2058547604189867597",
+      "title": "Vertical disintegration",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2058547604189867597/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0OTg2MDA1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7490006712189849321",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T02:01:00-07:00",
+      "updated": "2021-08-02T02:01:59-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/horizontal-integration.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7490006712189849321",
+      "title": "Horizontal integration",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7490006712189849321/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0OTE5MjAzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3353660576498610171",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T01:58:00-07:00",
+      "updated": "2021-08-02T01:59:40-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/outsourcing_2.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3353660576498610171",
+      "title": "Insourcing",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3353660576498610171/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0NzgwMzUyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6333752978988072375",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T01:55:00-07:00",
+      "updated": "2021-08-02T01:55:14-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/benchmarking.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6333752978988072375",
+      "title": "Benchmarking",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6333752978988072375/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0NTE0NjcwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4220875027080034729",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T01:52:00-07:00",
+      "updated": "2021-08-02T01:52:38-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/balanced-scorecard.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4220875027080034729",
+      "title": "Balanced scorecard",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4220875027080034729/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0MzU4OTM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3864506916946314595",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-02T01:50:00-07:00",
+      "updated": "2021-08-02T01:50:47-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategy-map.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3864506916946314595",
+      "title": "Strategy map",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3864506916946314595/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODk0MjQ3MTIzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6823929988559286822",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:46:00-07:00",
+      "updated": "2021-08-01T23:46:22-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/leadership.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6823929988559286822",
+      "title": "Leadership",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6823929988559286822/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg2NzgyMDIxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6144486044303922160",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:40:00-07:00",
+      "updated": "2021-08-01T23:40:18-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/rational-planning-model.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6144486044303922160",
+      "title": "Rational planning model",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6144486044303922160/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg2NDE4NTg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6033584207380202904",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:38:00-07:00",
+      "updated": "2021-08-01T23:38:25-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/organizational-theory.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6033584207380202904",
+      "title": "Organizational theory",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6033584207380202904/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg2MzA1NDQ5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7496299657191174121",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:36:00-07:00",
+      "updated": "2021-08-01T23:36:38-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/organizational-behavior.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7496299657191174121",
+      "title": "Organizational behavior",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7496299657191174121/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg2MTk4NDk0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8434802445390158784",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:34:00-07:00",
+      "updated": "2021-08-01T23:34:32-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/industrial-and-organizational-psychology.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8434802445390158784",
+      "title": "Industrial and organizational psychology",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8434802445390158784/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg2MDcyODQ0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3545646439245108811",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:32:00-07:00",
+      "updated": "2021-08-01T23:32:08-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/organizational-learning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3545646439245108811",
+      "title": "Organizational learning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3545646439245108811/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1OTI4NzE4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "386208981206092558",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:30:00-07:00",
+      "updated": "2021-08-01T23:30:17-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/change-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/386208981206092558",
+      "title": "Change management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/386208981206092558/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1ODE3NTI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1497135650611560854",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:28:00-07:00",
+      "updated": "2021-08-01T23:28:37-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/crisis-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1497135650611560854",
+      "title": "Crisis management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1497135650611560854/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1NzE3NjQ4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3761209018194716518",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:27:00-07:00",
+      "updated": "2021-08-01T23:27:05-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/knowledge-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3761209018194716518",
+      "title": "Knowledge management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3761209018194716518/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1NjI1NjQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6556993390006864339",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:25:00-07:00",
+      "updated": "2021-08-01T23:25:20-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/finance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6556993390006864339",
+      "title": "Finance",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6556993390006864339/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1NTIwMDI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4456716062122295290",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:23:00-07:00",
+      "updated": "2021-08-01T23:23:55-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/public-finance.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4456716062122295290",
+      "title": "Public finance",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4456716062122295290/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1NDM1MTM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3417725529178734404",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T23:22:00-07:00",
+      "updated": "2021-08-01T23:22:15-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/dupont-analysis.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3417725529178734404",
+      "title": "DuPont analysis",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3417725529178734404/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODg1MzM1ODM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2322532297097704062",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:46:00-07:00",
+      "updated": "2021-08-01T17:46:30-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/synergy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2322532297097704062",
+      "title": "Synergy",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2322532297097704062/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY1MTkwMzAyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3741177977415003293",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:44:00-07:00",
+      "updated": "2021-08-01T17:44:00-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/strategic-fit.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3741177977415003293",
+      "title": "Strategic fit",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3741177977415003293/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY1MDQwNjc4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8541293388938046929",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:42:00-07:00",
+      "updated": "2021-08-01T17:42:05-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/competition-economics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8541293388938046929",
+      "title": "Competition (economics)",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8541293388938046929/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0OTI1NzEyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4225370736144867304",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:40:00-07:00",
+      "updated": "2021-08-01T17:40:17-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/economics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4225370736144867304",
+      "title": "Economics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4225370736144867304/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0ODE3OTU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2329323130109308195",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:33:00-07:00",
+      "updated": "2021-08-01T17:33:35-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/macroeconomics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2329323130109308195",
+      "title": "Macroeconomics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2329323130109308195/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0NDE1MDQ2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1369233764232694178",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:31:00-07:00",
+      "updated": "2021-08-01T17:31:56-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/microeconomics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1369233764232694178",
+      "title": "Microeconomics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1369233764232694178/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MzE2MDk4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1985921021123030416",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:29:00-07:00",
+      "updated": "2021-08-01T17:29:47-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/economies-of-scope.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1985921021123030416",
+      "title": "Economies of scope",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1985921021123030416/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MTg3MTMzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7399488210561502364",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:28:00-07:00",
+      "updated": "2021-08-01T17:28:15-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/economies-of-scale.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7399488210561502364",
+      "title": "Economies of scale",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7399488210561502364/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODY0MDk1OTI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "83306696202664551",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:24:00-07:00",
+      "updated": "2021-08-01T17:24:17-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/factors-of-production.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/83306696202664551",
+      "title": "Factors of production",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/83306696202664551/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzODU3MzQxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3657462082031821816",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T17:22:00-07:00",
+      "updated": "2021-08-01T17:25:41-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/social-progress-index.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3657462082031821816",
+      "title": "List of Countries by Social Progress Index",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3657462082031821816/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODYzOTQxNjUxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4149672976127044698",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T08:46:00-07:00",
+      "updated": "2021-08-01T08:46:52-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/list-of-countries-by-tax-rates.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4149672976127044698",
+      "title": "List of countries by tax rates",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4149672976127044698/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODMyODEyODE5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4581194763951751971",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T08:11:00-07:00",
+      "updated": "2021-08-01T08:11:39-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/incoterms.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4581194763951751971",
+      "title": "Incoterms",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4581194763951751971/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODMwNjk5Nzc1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1734407272728649980",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T08:09:00-07:00",
+      "updated": "2021-08-01T08:09:57-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/uniform-commercial-code.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1734407272728649980",
+      "title": "Uniform Commercial Code",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1734407272728649980/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODMwNTk3NTI2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2358076796256124206",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T08:08:00-07:00",
+      "updated": "2021-08-01T08:08:12-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/united-nations-convention-on-contracts.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2358076796256124206",
+      "title": "United Nations Convention on Contracts for the International Sale of Goods",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2358076796256124206/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODMwNDkyNjY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1092843003909077200",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T08:05:00-07:00",
+      "updated": "2021-08-01T08:05:33-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/consumer-behaviour.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1092843003909077200",
+      "title": "Consumer behaviour",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1092843003909077200/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODMwMzMzMDg0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7722898576169666040",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:54:00-07:00",
+      "updated": "2021-08-01T07:54:10-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/tax-haven.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7722898576169666040",
+      "title": "Tax haven",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7722898576169666040/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI5NjUwMjUyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7740853979446855362",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:46:00-07:00",
+      "updated": "2021-08-01T07:46:39-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/tax-rate.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7740853979446855362",
+      "title": "Tax rate",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7740853979446855362/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI5MTk5Mjg1Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4755044697667511125",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:43:00-07:00",
+      "updated": "2021-08-01T07:43:32-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/supply-chain-management.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4755044697667511125",
+      "title": "Supply chain management",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/4755044697667511125/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI5MDEyMjQ5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1784704630727836833",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:32:00-07:00",
+      "updated": "2021-08-01T07:32:25-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/reverse-logistics.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1784704630727836833",
+      "title": "Reverse logistics",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/1784704630727836833/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI4MzQ1Njg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "201208185183610948",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:31:00-07:00",
+      "updated": "2021-08-01T07:31:00-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/coopetition.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/201208185183610948",
+      "title": "Coopetition",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/201208185183610948/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI4MjYwNjQyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "350568243813322517",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:29:00-07:00",
+      "updated": "2021-08-01T07:29:42-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/prisoners-dilemma.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/350568243813322517",
+      "title": "Prisoner's dilemma",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/350568243813322517/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI4MTgyNDQyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2277420057190234573",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:27:00-07:00",
+      "updated": "2021-08-01T07:27:27-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/promoting-adversaries.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2277420057190234573",
+      "title": "Promoting adversaries",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2277420057190234573/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI4MDQ3MTM4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5083200241754444570",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:26:00-07:00",
+      "updated": "2021-08-01T07:26:22-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/market-share.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5083200241754444570",
+      "title": "Market share",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5083200241754444570/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI3OTgyMjAxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6262786168117913640",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:25:00-07:00",
+      "updated": "2021-08-01T07:25:04-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/market-research.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6262786168117913640",
+      "title": "Market research",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6262786168117913640/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI3OTA0Mjk3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7424885759595606387",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:23:00-07:00",
+      "updated": "2021-08-01T07:23:20-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/marketing-research.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7424885759595606387",
+      "title": "Marketing research",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/7424885759595606387/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI3ODAwMjkxCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "523650014506713123",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T07:21:00-07:00",
+      "updated": "2021-08-01T07:21:12-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/marketing-plan.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/523650014506713123",
+      "title": "Marketing plan",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/523650014506713123/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODI3NjcyODU0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8383719470494215675",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T03:00:00-07:00",
+      "updated": "2021-08-01T03:00:40-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/experience-curve-effects.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8383719470494215675",
+      "title": "Experience curve effects",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8383719470494215675/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODEyMDQwMDMwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8924157575647566825",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T02:58:00-07:00",
+      "updated": "2021-08-01T02:58:58-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/core-competency.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8924157575647566825",
+      "title": "Core competency",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8924157575647566825/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODExOTM4Njc5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2070813710626934186",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-08-01T02:57:00-07:00",
+      "updated": "2021-08-01T02:57:42-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/08/outsourcing.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2070813710626934186",
+      "title": "Outsourcing",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/2070813710626934186/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3ODExODYyMjA5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5844123546976869066",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:24:00-07:00",
+      "updated": "2021-07-31T05:24:27-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/integrated-business-planning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5844123546976869066",
+      "title": "Integrated business planning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5844123546976869066/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzM0MjY3ODY3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6679132905680281001",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:21:00-07:00",
+      "updated": "2021-07-31T05:21:37-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/offshoring.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6679132905680281001",
+      "title": "Offshoring",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/6679132905680281001/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzM0MDk3Njc2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5402341950736814821",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:20:00-07:00",
+      "updated": "2021-07-31T05:20:07-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/scenario-planning.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5402341950736814821",
+      "title": "Scenario planning",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/5402341950736814821/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzM0MDA3MDk2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "23384963539008497",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:18:00-07:00",
+      "updated": "2021-07-31T05:18:31-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/profit-margin.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/23384963539008497",
+      "title": "Profit margin",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/23384963539008497/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzMzOTExMDgzCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8343052181214749669",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:17:00-07:00",
+      "updated": "2021-07-31T05:17:11-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/balance-sheet.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8343052181214749669",
+      "title": "Balance sheet",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/8343052181214749669/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzMzODMxNzY0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "3322571642058837606",
+      "blog": {
+        "id": "3999842327970972902"
+      },
+      "published": "2021-07-31T05:15:00-07:00",
+      "updated": "2021-07-31T05:15:48-07:00",
+      "url": "http://businesshandbookwiki.blogspot.com/2021/07/return-on-equity.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3322571642058837606",
+      "title": "Return on equity",
+      "content": "",
+      "author": {
+        "id": "17999838611123063685",
+        "displayName": "febyra",
+        "url": "https://www.blogger.com/profile/17999838611123063685",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3999842327970972902/posts/3322571642058837606/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI3NzMzNzQ4OTAyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wOC0wMlQxNDoxNDoyNS4wODha\""
+}
